@@ -1,0 +1,421 @@
+{
+  "Versions": {
+    "versions": [
+      {
+        "version": "1.17.10",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.17.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.221",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.16.220",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.210",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.201",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.200",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.101",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.100",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.40",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.20",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.10",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.16.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.14.60",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.14.30",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.14.20",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.14.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.14.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.13.3",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.13.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.13.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.12.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.12.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.11.4",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.11.3",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.11.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.11.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.10.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.9.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.8.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.8.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.7.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.6.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.6.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.5.3",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.5.2",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.5.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.5.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.4.4",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.4.2",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.4.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.4.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.13.60(1.2.16)",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.13",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.11",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.10",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.9",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.8",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.7",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.6",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.5",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.3",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.2",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.1",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.2.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.1.5",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.1.4",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.1.3",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.1.2",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.1.1",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.1.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "1.0.9",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.8",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.7",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.6",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.5",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.4",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.3",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.2",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "1.0.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "0.16.2",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.16.1",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.16.0",
+        "hasBehavior": true,
+        "hasResource": true
+      },
+      {
+        "version": "0.15.10",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.9",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.8",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.7",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.6",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.4",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.2",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.1",
+        "hasBehavior": false,
+        "hasResource": false
+      },
+      {
+        "version": "0.15.0",
+        "hasBehavior": true,
+        "hasResource": true
+      }
+    ]
+  }
+}
